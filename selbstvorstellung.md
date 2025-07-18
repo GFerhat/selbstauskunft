@@ -4,7 +4,6 @@
     Das ist Ferhat Gümüs.</em>
 </p>
 
-
 ## Kurinfos
 >- Geb. 28.06.1999 in Bad Hersfeld
 >- Wohnort: Espenau
