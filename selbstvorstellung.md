@@ -19,7 +19,7 @@
 ---
  ## Karriere
 
- #### (September 2016) Erster Schritt im Erwachsen werden.
+ #### (September 2016) Erster Schritt ins Erwachsen werden.
  Nach meinem Realabschluss entschied ich mich die Fachhochschulreife mit dem Schwerpunkt Wirtschaftsinformatik zu erlangen. Gesagt getan 2jahre später hielt ich meinen Abschluss in der Hand. Während dieser Zeit habe ich viel gearbeitet, weil ich Geld haben wollte was ich zum Zeitpunkt nicht gebraucht habe, für materielle Dinge, die ich nicht gebrauchte. Ich war im Imbiss meines Vaters tätig, gleichzeit auch als Servicekraft in Hotels, bei Events und Ähnlichem.
  Während meiner Zeit am Fachabitur verlor ich zunehmend das Interesse an schulischer Bildung. Mein Interesse an Wirtschaft und Informatik jedoch hielt mich fest, sodass ich meinen Abschluss verwirklichen konnte.
  
