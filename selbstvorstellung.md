@@ -11,11 +11,12 @@
 >- Religion: Islam
 >- Abstammunng: kurdisch
 >- Das "s" in "Gümüs" wird "sch" ausgesprochen.
-___
+---
  ## Zu meiner Person
 
  Ich bin gut gelaunt, und gehe mit einer Ladung kreativem Chaos durch den Alltag. Mein Glaube gehört fest zu meinem Leben und ist für die meisten, die mich kennen, ein selbstverständlicher Teil von mir. Auch wenn ich damit manchmal ein bisschen aus der Reihe falle, bin ich dankbar, ihn frei leben zu dürfen und dabei auch Unterstützung zu erfahren. Ich hab generell einen hohen Energiepegel, weshalb regelmäßiger Sport in meinem Leben unerlässlich ist. Ich habe manchmal Schwierigkeiten, mich richtig auszudrücken das führt gelegentlich zu Missverständnissen.
-___
+ 
+---
  ## Karriere
 
  **(September 2016) Erster Schritt im Erwachsen werden.**
@@ -36,7 +37,7 @@ ___
  **(Mai 2025) Andreas ruft an.**
  Dank Andreas, der mich anrief, mich doof nannte und damit meine Zukunft rettete, bin ich heute ein dankbarer Teilnehmer bei dem Bildungsträger [CDEMY](https://cdemy.de).
 
- ___
+ ---
 
  ## Was mag ich / treibt mich an
 
