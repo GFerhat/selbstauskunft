@@ -19,22 +19,22 @@
 ---
  ## Karriere
 
- **(September 2016) Erster Schritt im Erwachsen werden.**
+ #### (September 2016) Erster Schritt im Erwachsen werden.
  Nach meinem Realabschluss entschied ich mich die Fachhochschulreife mit dem Schwerpunkt Wirtschaftsinformatik zu erlangen. Gesagt getan 2jahre später hielt ich meinen Abschluss in der Hand. Während dieser Zeit habe ich viel gearbeitet, weil ich Geld haben wollte was ich zum Zeitpunkt nicht gebraucht habe, für materielle Dinge, die ich nicht gebrauchte. Ich war im Imbiss meines Vaters tätig, gleichzeit auch als Servicekraft in Hotels, bei Events und Ähnlichem.
  Während meiner Zeit am Fachabitur verlor ich zunehmend das Interesse an schulischer Bildung. Mein Interesse an Wirtschaft und Informatik jedoch hielt mich fest, sodass ich meinen Abschluss verwirklichen konnte.
  
- ##### (Oktober 2018)Das Studium
+ #### (Oktober 2018)Das Studium
  Ohne klare Orientierung folgte ich den Fußstapfen meiner Schwester, auf die ich sehr stolz bin, und begann ein Studium im Bereich Berufspädagogik mit dem Schwerpunkt Metalltechnik. 
  
- ##### (Oktober 2022) Ich breche das Studium.
+ #### (Oktober 2022) Ich breche das Studium.
  Das Studium löste in mir eine Unruhe aus, also jobbte ich wieder viel für Geld und Dinge, die ich nicht brauchte. ab, da mir schlicht und einfach das Interesse fehlte. 
  Hier begann eine Phase der Umorientierung in meinem Leben. Ich versuchte mich im Vertrieb, in der Hotellerie, in der Logistik und schließlich in der industriellen Fertigung. Auf diesem Weg lernte ich viele Menschen kennen und durfte verschiedene Geschäftsmodelle aus der Nähe betrachten, etwas das ich unglaublich inspirierend finde.
 
- ##### (Januar 2025) Zeit sich zu entscheiden.
+ #### (Januar 2025) Zeit sich zu entscheiden.
  Dennoch wusste ich, dass ich bald eine Entscheidung treffen muss: Was will ich? Und wohin will ich?
  Die Agentur für Arbeit schlug mir eine Umschulung vor. Also schlug ich den Bereich Informatik vor, weil ich erkannt hatte, dass die Themen rund um IT schon immer etwas in mir ausgelöst haben nur fehlte mir damals die Reife, das zu erkennen.
  
- ##### (Mai 2025) Andreas ruft an.
+ #### (Mai 2025) Andreas ruft an.
  Dank Andreas, der mich anrief, mich doof nannte und damit meine Zukunft rettete, bin ich heute ein dankbarer Teilnehmer bei dem Bildungsträger [CDEMY](https://cdemy.de).
 
  ---
